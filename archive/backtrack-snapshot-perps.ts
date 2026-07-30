@@ -109,7 +109,7 @@ const QUOTE_SPOT_MARKET_INDEX = 0;
 const DEFAULT_CUTOFF_SLOT = 410_344_005;
 const DEFAULT_WINDOW_END_SLOT = 410_366_402;
 const DRIFT_PROGRAM_ID = new PublicKey(
-  "dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH",
+  "CRFEX81cWA7JkUe5E5YrurfAszRdWxvaYCyAzG39s3Fw",
 );
 const ZERO_PUBKEY = PublicKey.default.toBase58();
 

@@ -89,7 +89,7 @@ import {
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const DRIFT_PROGRAM_ID = new PublicKey(
-  "dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH",
+  "CRFEX81cWA7JkUe5E5YrurfAszRdWxvaYCyAzG39s3Fw",
 );
 
 // Same window as the bulk pipeline. Hard-coded; trivial to surface as a

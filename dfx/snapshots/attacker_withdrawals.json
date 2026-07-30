@@ -268,7 +268,7 @@
     }
   ],
   "dataApiBase": "https://data.api.drift.trade",
-  "driftProgramId": "dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH",
+  "driftProgramId": "CRFEX81cWA7JkUe5E5YrurfAszRdWxvaYCyAzG39s3Fw",
   "generatedAt": "2026-06-05T06:32:46.008Z",
   "note": "notionalWithdrawn = sum over withdraw records of amount * oraclePrice (both human-readable from the data API). Spot markets 63/64/65 are scam tokens, excluded from totals and listed under scamWithdrawals.",
   "period": "2026/4",
